@@ -14,6 +14,32 @@ if command -v dconf &> /dev/null; then
   dconf dump /org/gnome/settings-daemon/plugins/media-keys/ > ~/dotfiles/gnome-keybindings.dconf
 fi
 
+# 备份系统网络设置
+echo "备份系统网络设置..."
+if [ -f /etc/netplan/*.yaml ]; then
+  cp /etc/netplan/*.yaml ~/dotfiles/netplan/
+fi
+
+# 备份系统时区设置
+echo "备份系统时区设置..."
+timedatectl show > ~/dotfiles/timedatectl.conf
+
+# 备份已安装的软件包列表
+echo "备份已安装的软件包列表..."
+dpkg --get-selections > ~/dotfiles/installed-packages.list
+
+# 备份系统环境变量
+echo "备份系统环境变量..."
+env > ~/dotfiles/environment-variables.txt
+
+# 备份系统服务状态
+echo "备份系统服务状态..."
+systemctl list-unit-files --type=service > ~/dotfiles/system-services.txt
+
+# 备份系统 crontab 任务
+echo "备份系统 crontab 任务..."
+crontab -l > ~/dotfiles/crontab-backup.txt
+
 # 检查是否有文件变化
 if git diff --quiet; then
   echo "无文件变化，跳过提交。"

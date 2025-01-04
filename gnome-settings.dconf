@@ -1,0 +1,396 @@
+[apps/update-manager]
+first-run=false
+launch-count=1
+launch-time=int64 1735026919
+
+[com/ftpix/transparentbar]
+dark-full-screen=true
+transparency=91
+
+[com/ubuntu/update-notifier]
+release-check-time=uint32 1735026915
+
+[org/gnome/GPaste]
+history-name='history'
+show-history='<Ctrl><Alt>H'
+
+[org/gnome/control-center]
+last-panel='background'
+
+[org/gnome/desktop/a11y/interface]
+high-contrast=false
+
+[org/gnome/desktop/a11y/keyboard]
+mousekeys-enable=false
+
+[org/gnome/desktop/a11y/magnifier]
+mouse-tracking='proportional'
+
+[org/gnome/desktop/app-folders]
+folder-children=['Utilities', 'YaST', 'bc293e38-773d-4b33-8ddf-99b68d5904de', 'ec03b1bf-9c73-4abe-a042-8bc360b4cd18', '955001c9-9838-48e8-b592-5b7782221ba0', '8ba2f1b4-60c8-4529-8ced-3ea1ca08296d']
+
+[org/gnome/desktop/app-folders/folders/8ba2f1b4-60c8-4529-8ced-3ea1ca08296d]
+apps=['org.kde.kdeconnect.app.desktop', 'org.kde.kdeconnect.nonplasma.desktop', 'org.kde.kdeconnect-settings.desktop']
+name='互联网'
+
+[org/gnome/desktop/app-folders/folders/955001c9-9838-48e8-b592-5b7782221ba0]
+apps=['org.kde.kdeconnect.sms.desktop']
+name='互联网'
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['gnome-abrt.desktop', 'gnome-system-log.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.eog.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'vinagre.desktop', 'org.gnome.Extensions.desktop', 'vim.desktop', 'v2raya_v2raya-browser-wrapper.desktop', 'bleachbit-root.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/bc293e38-773d-4b33-8ddf-99b68d5904de]
+apps=['org.gnome.PowerStats.desktop', 'software-properties-drivers.desktop', 'gnome-session-properties.desktop', 'update-manager.desktop', 'software-properties-gtk.desktop', 'gnome-control-center.desktop', 'gnome-language-selector.desktop', 'fcitx.desktop', 'org.gnome.Calculator.desktop', 'org.gnome.gedit.desktop', 'fcitx-configtool.desktop', 'gnome-system-monitor.desktop', 'org.gnome.Terminal.desktop', 'v2raya.desktop', 'yelp.desktop', 'vlc.desktop']
+name='Unnamed Folder'
+
+[org/gnome/desktop/app-folders/folders/ec03b1bf-9c73-4abe-a042-8bc360b4cd18]
+apps=['wps-office-pdf.desktop', 'wps-office-et.desktop', 'wps-office-wpp.desktop', 'wps-office-wps.desktop']
+name='办公'
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/lighting/.local/share/backgrounds/2025-01-04-14-44-22-Sierra.jpg'
+primary-color='#000000000000'
+secondary-color='#000000000000'
+
+[org/gnome/desktop/input-sources]
+per-window=false
+sources=[('xkb', 'cn')]
+xkb-options=@as []
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-light'
+cursor-theme='DMZ-Black'
+font-antialiasing='rgba'
+font-hinting='slight'
+gtk-theme='WhiteSur-Light'
+icon-theme='Mkos-Big-Sur'
+show-battery-percentage=true
+
+[org/gnome/desktop/notifications]
+application-children=['gnome-network-panel', 'org-gnome-nautilus', 'wechat', 'gnome-control-center', 'clash-verge', 'io-snapcraft-sessionagent', 'snapd-desktop-integration-snapd-desktop-integration', 'google-chrome', 'snap-store-ubuntu-software', 'apport-gtk', 'gnome-power-panel', 'youdao-dict', 'gitkraken-url-handler', 'baidunetdisk', 'steam', 'stacer', 'gimp', 'timeshift-gtk', 'org-gnome-gpaste-ui', 'org-kde-kdeconnect-daemon']
+show-banners=false
+
+[org/gnome/desktop/notifications/application/apport-gtk]
+application-id='apport-gtk.desktop'
+
+[org/gnome/desktop/notifications/application/baidunetdisk]
+application-id='baidunetdisk.desktop'
+
+[org/gnome/desktop/notifications/application/clash-verge]
+application-id='Clash Verge.desktop'
+
+[org/gnome/desktop/notifications/application/gimp]
+application-id='gimp.desktop'
+
+[org/gnome/desktop/notifications/application/gitkraken-url-handler]
+application-id='gitkraken-url-handler.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-control-center]
+application-id='gnome-control-center.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-network-panel]
+application-id='gnome-network-panel.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[org/gnome/desktop/notifications/application/google-chrome]
+application-id='google-chrome.desktop'
+
+[org/gnome/desktop/notifications/application/io-snapcraft-sessionagent]
+application-id='io.snapcraft.SessionAgent.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-gpaste-ui]
+application-id='org.gnome.GPaste.Ui.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/notifications/application/org-kde-kdeconnect-daemon]
+application-id='org.kde.kdeconnect.daemon.desktop'
+
+[org/gnome/desktop/notifications/application/snap-store-ubuntu-software]
+application-id='snap-store_ubuntu-software.desktop'
+
+[org/gnome/desktop/notifications/application/snapd-desktop-integration-snapd-desktop-integration]
+application-id='snapd-desktop-integration_snapd-desktop-integration.desktop'
+
+[org/gnome/desktop/notifications/application/stacer]
+application-id='stacer.desktop'
+
+[org/gnome/desktop/notifications/application/steam]
+application-id='steam.desktop'
+
+[org/gnome/desktop/notifications/application/timeshift-gtk]
+application-id='timeshift-gtk.desktop'
+
+[org/gnome/desktop/notifications/application/wechat]
+application-id='wechat.desktop'
+
+[org/gnome/desktop/notifications/application/youdao-dict]
+application-id='youdao-dict.desktop'
+
+[org/gnome/desktop/peripherals/keyboard]
+numlock-state=true
+
+[org/gnome/desktop/peripherals/mouse]
+left-handed=false
+natural-scroll=false
+speed=0.12367491166077738
+
+[org/gnome/desktop/peripherals/touchpad]
+click-method='fingers'
+edge-scrolling-enabled=false
+natural-scroll=true
+send-events='enabled'
+speed=0.71731448763250882
+tap-to-click=true
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/privacy]
+report-technical-problems=true
+
+[org/gnome/desktop/screensaver]
+color-shading-type='solid'
+lock-delay=uint32 0
+picture-options='zoom'
+picture-uri='file:///home/lighting/.local/share/backgrounds/2025-01-04-14-44-22-Sierra.jpg'
+primary-color='#000000000000'
+secondary-color='#000000000000'
+
+[org/gnome/desktop/search-providers]
+sort-order=['org.gnome.Contacts.desktop', 'org.gnome.Documents.desktop', 'org.gnome.Nautilus.desktop']
+
+[org/gnome/desktop/session]
+idle-delay=uint32 0
+
+[org/gnome/desktop/wm/keybindings]
+begin-resize=['<Alt>d']
+close=['<Alt>w']
+minimize=['<Alt>q']
+show-desktop=['<Super>d']
+switch-to-workspace-1=['<Super>1']
+switch-to-workspace-2=['<Super>2']
+switch-to-workspace-3=['<Super>3']
+switch-to-workspace-4=['<Super>4']
+toggle-fullscreen=['<Alt>s']
+unmaximize=['<Alt>a']
+
+[org/gnome/desktop/wm/preferences]
+focus-mode='click'
+
+[org/gnome/eog/view]
+background-color='rgb(0,0,0)'
+use-background-color=true
+
+[org/gnome/evolution-data-server]
+migrated=true
+network-monitor-gio-name=''
+
+[org/gnome/file-roller/listing]
+list-mode='as-folder'
+name-column-width=250
+show-path=false
+sort-method='name'
+sort-type='ascending'
+
+[org/gnome/file-roller/ui]
+sidebar-width=200
+window-height=480
+window-width=600
+
+[org/gnome/gedit/plugins]
+active-plugins=['sort', 'filebrowser', 'docinfo', 'modelines', 'openlinks', 'spell']
+
+[org/gnome/gedit/plugins/filebrowser]
+root='file:///'
+tree-view=true
+virtual-root='file:///home/lighting/dotfiles'
+
+[org/gnome/gedit/preferences/editor]
+scheme='Yaru'
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(900, 700)
+state=87168
+
+[org/gnome/gnome-system-monitor]
+current-tab='processes'
+maximized=false
+network-total-in-bits=false
+show-dependencies=false
+show-whose-processes='user'
+window-state=(1062, 500, 45, 29)
+
+[org/gnome/gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=0
+
+[org/gnome/mutter]
+experimental-features=['x11-randr-fractional-scaling']
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='icon-view'
+search-filter-time-type='last_modified'
+search-view='list-view'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+maximized=false
+
+[org/gnome/settings-daemon/plugins/media-keys]
+calculator=['<Super>c']
+control-center=['<Super>i']
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/']
+help=['<Primary>F1']
+home=['<Super>e']
+next=['AudioPrev']
+previous=['AudioNext']
+search=['<Super>a']
+volume-down=['AudioLowerVolume']
+volume-mute=['AudioMute']
+volume-up=['AudioRaiseVolume']
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
+binding='<Primary>Escape'
+command='gnome-system-monitor'
+name='任务资源管理器'
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
+binding='<Primary><Shift>Escape'
+command='stacer'
+name='资源管理器'
+
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2]
+command=''
+name=''
+
+[org/gnome/settings-daemon/plugins/power]
+power-button-action='nothing'
+sleep-inactive-ac-timeout=3600
+sleep-inactive-ac-type='nothing'
+
+[org/gnome/shell]
+app-picker-layout=[{'bc293e38-773d-4b33-8ddf-99b68d5904de': <{'position': <0>}>, 'Utilities': <{'position': <1>}>, 'ec03b1bf-9c73-4abe-a042-8bc360b4cd18': <{'position': <2>}>, '8ba2f1b4-60c8-4529-8ced-3ea1ca08296d': <{'position': <3>}>, 'firefox_firefox.desktop': <{'position': <4>}>, 'steam.desktop': <{'position': <5>}>, 'net.lutris.Lutris.desktop': <{'position': <6>}>, 'winetricks.desktop': <{'position': <7>}>, 'netease-cloud-music.desktop': <{'position': <8>}>, 'gparted.desktop': <{'position': <9>}>, 'org.bleachbit.BleachBit.desktop': <{'position': <10>}>, 'cerebro.desktop': <{'position': <11>}>, 'gitkraken.desktop': <{'position': <12>}>, 'gimp.desktop': <{'position': <13>}>, 'org.kde.kdenlive.desktop': <{'position': <14>}>, 'timeshift-gtk.desktop': <{'position': <15>}>}]
+command-history=['gconf-editor', 'r', 'cerebro']
+disable-user-extensions=false
+disabled-extensions=['window-list@gnome-shell-extensions.gcampax.github.com', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'gnome-compact-top-bar@metehan-arslan.github.io']
+enabled-extensions=['user-theme@gnome-shell-extensions.gcampax.github.com', 'compiz-windows-effect@hermes83.github.com', 'compiz-alike-magic-lamp-effect@hermes83.github.com', 'gradienttopbar@pshow.org', 'lockscreen-extension@pratap.fastmail.fm', 'CustomizeClockOnLockScreen@pratap.fastmail.fm', 'transparent-top-bar@ftpix.com', 'gestureImprovements@gestures', 'clipboard-indicator@tudmotu.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'ding@rastersoft.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'ubuntu-appindicators@ubuntu.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'x11gestures@joseexposito.github.io', 'hidetopbar@mathieu.bidon.ca', 'TransparentTopbar@enrico.sorio.net', 'clear-top-bar@superterran.net', 'gtktitlebar@velitasali.github.io']
+favorite-apps=['google-chrome.desktop', 'code.desktop', 'org.gnome.Nautilus.desktop', 'pycharm.desktop', 'wps-office-prometheus.desktop', 'qq.desktop', 'wechat.desktop', 'bytedance-feishu.desktop', 'typora.desktop', 'Clash Verge.desktop', 'vlc_vlc.desktop', 'org.gnome.tweaks.desktop', 'baidunetdisk.desktop', 'io.github.msojocs.bilibili.desktop', 'snap-store_ubuntu-software.desktop', 'stacer.desktop', 'org.kde.kdeconnect.sms.desktop', 'youdao-dict.desktop', 'org.gnome.GPaste.Ui.desktop', 'gitkraken.desktop']
+welcome-dialog-last-shown-version='42.9'
+
+[org/gnome/shell/extensions/clipboard-indicator]
+history-size=50
+
+[org/gnome/shell/extensions/dash-to-dock]
+dash-max-icon-size=40
+dock-fixed=false
+dock-position='BOTTOM'
+extend-height=false
+show-mounts=false
+show-mounts-network=true
+show-mounts-only-mounted=false
+
+[org/gnome/shell/extensions/dash-to-panel]
+available-monitors=[0]
+primary-monitor=0
+
+[org/gnome/shell/extensions/ding]
+show-home=false
+start-corner='top-right'
+
+[org/gnome/shell/extensions/gestureImprovements]
+allow-minimize-window=true
+alttab-delay=150
+default-overview-gesture-direction=false
+enable-forward-back-gesture=true
+follow-natural-scroll=false
+pinch-3-finger-gesture='SHOW_DESKTOP'
+
+[org/gnome/shell/extensions/top-bar-organizer]
+center-box-order=['dateMenu']
+left-box-order=['activities', 'appMenu']
+right-box-order=['screenRecording', 'appindicator-kstatusnotifieritem-livepatch', 'appindicator-kstatusnotifieritem-software-update-available', 'appindicator-kstatusnotifieritem-wechat', 'appindicator-kstatusnotifieritem-tray-icon tray app', 'appindicator-kstatusnotifieritem-Fcitx', 'dwellClick', 'a11y', 'keyboard', 'aggregateMenu']
+
+[org/gnome/shell/extensions/user-theme]
+name='WhiteSur-Light'
+
+[org/gnome/shell/extensions/x11gestures]
+swipe-fingers=4
+
+[org/gnome/shell/keybindings]
+show-screen-recording-ui=['F2']
+show-screenshot-ui=['F1']
+switch-to-application-1=@as []
+switch-to-application-2=@as []
+switch-to-application-3=@as []
+switch-to-application-4=@as []
+toggle-application-view=@as []
+
+[org/gnome/software]
+check-timestamp=int64 1735972971
+update-notification-timestamp=int64 1735972968
+
+[org/gnome/system/location]
+enabled=false
+
+[org/gtk/gtk4/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=150
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-size=(867, 374)
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=164
+sort-column='name'
+sort-directories-first=true
+sort-order='descending'
+type-format='category'
+window-position=(45, 29)
+window-size=(1440, 855)
+
+[system/proxy]
+autoconfig-url='http://127.0.0.1:33331/commands/pac'
+ignore-hosts=['localhost', '127.0.0.1', '192.168.0.0/16', '10.0.0.0/8', '172.16.0.0/12', '::1']
+mode='manual'
+
+[system/proxy/http]
+host='127.0.0.1'
+port=7897
+
+[system/proxy/https]
+host='127.0.0.1'
+port=7897
+
+[system/proxy/socks]
+host='127.0.0.1'
+port=7897

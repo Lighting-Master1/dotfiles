@@ -1,0 +1,26 @@
+[/]
+calculator=['<Super>c']
+control-center=['<Super>i']
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/']
+help=['<Primary>F1']
+home=['<Super>e']
+next=['AudioPrev']
+previous=['AudioNext']
+search=['<Super>a']
+volume-down=['AudioLowerVolume']
+volume-mute=['AudioMute']
+volume-up=['AudioRaiseVolume']
+
+[custom-keybindings/custom0]
+binding='<Primary>Escape'
+command='gnome-system-monitor'
+name='任务资源管理器'
+
+[custom-keybindings/custom1]
+binding='<Primary><Shift>Escape'
+command='stacer'
+name='资源管理器'
+
+[custom-keybindings/custom2]
+command=''
+name=''

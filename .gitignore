@@ -1,0 +1,8 @@
+cat <<EOL >> ~/dotfiles/.gitignore
+# 忽略 SSH 私钥
+ssh/id_ed25519
+ssh/id_rsa
+
+# 忽略缓存文件
+config/Code/CachedExtensionVSIXs/
+EOL

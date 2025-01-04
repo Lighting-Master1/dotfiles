@@ -1,0 +1,567 @@
+[user]
+	name = Lighting
+	email = 315023164@qq.com
+[url "https://jihulab.com/esp-mirror/adafruit/asf4"]
+	insteadOf = https://github.com/adafruit/asf4
+[url "https://jihulab.com/esp-mirror/adafruit/asf4.git"]
+	insteadOf = https://github.com/adafruit/asf4
+[url "https://jihulab.com/esp-mirror/ARMmbed/mbed-os-cypress-capsense-button"]
+	insteadOf = https://github.com/ARMmbed/mbed-os-cypress-capsense-button
+[url "https://jihulab.com/esp-mirror/ARMmbed/mbed-os-cypress-capsense-button.git"]
+	insteadOf = https://github.com/ARMmbed/mbed-os-cypress-capsense-button
+[url "https://jihulab.com/esp-mirror/ARMmbed/mbed-os-posix-socket"]
+	insteadOf = https://github.com/ARMmbed/mbed-os-posix-socket
+[url "https://jihulab.com/esp-mirror/ARMmbed/mbed-os-posix-socket.git"]
+	insteadOf = https://github.com/ARMmbed/mbed-os-posix-socket
+[url "https://jihulab.com/esp-mirror/ARMmbed/mbed-os"]
+	insteadOf = https://github.com/ARMmbed/mbed-os
+[url "https://jihulab.com/esp-mirror/ARMmbed/mbed-os.git"]
+	insteadOf = https://github.com/ARMmbed/mbed-os
+[url "https://jihulab.com/esp-mirror/ARMmbed/mbedtls"]
+	insteadOf = https://github.com/ARMmbed/mbedtls
+[url "https://jihulab.com/esp-mirror/ARMmbed/mbedtls.git"]
+	insteadOf = https://github.com/ARMmbed/mbedtls
+[url "https://jihulab.com/esp-mirror/atgreen/libffi"]
+	insteadOf = https://github.com/atgreen/libffi
+[url "https://jihulab.com/esp-mirror/atgreen/libffi.git"]
+	insteadOf = https://github.com/atgreen/libffi
+[url "https://jihulab.com/esp-mirror/ATmobica/mcuboot"]
+	insteadOf = https://github.com/ATmobica/mcuboot
+[url "https://jihulab.com/esp-mirror/ATmobica/mcuboot.git"]
+	insteadOf = https://github.com/ATmobica/mcuboot
+[url "https://jihulab.com/esp-mirror/bluekitchen/btstack"]
+	insteadOf = https://github.com/bluekitchen/btstack
+[url "https://jihulab.com/esp-mirror/bluekitchen/btstack.git"]
+	insteadOf = https://github.com/bluekitchen/btstack
+[url "https://jihulab.com/esp-mirror/DaveGamble/cJSON"]
+	insteadOf = https://github.com/DaveGamble/cJSON
+[url "https://jihulab.com/esp-mirror/DaveGamble/cJSON.git"]
+	insteadOf = https://github.com/DaveGamble/cJSON
+[url "https://jihulab.com/esp-mirror/eclipse/tinydtls"]
+	insteadOf = https://github.com/eclipse/tinydtls
+[url "https://jihulab.com/esp-mirror/eclipse/tinydtls.git"]
+	insteadOf = https://github.com/eclipse/tinydtls
+[url "https://jihulab.com/esp-mirror/espressif/asio"]
+	insteadOf = https://github.com/espressif/asio
+[url "https://jihulab.com/esp-mirror/espressif/asio.git"]
+	insteadOf = https://github.com/espressif/asio
+[url "https://jihulab.com/esp-mirror/espressif/aws-iot-device-sdk-embedded-C"]
+	insteadOf = https://github.com/espressif/aws-iot-device-sdk-embedded-C
+[url "https://jihulab.com/esp-mirror/espressif/aws-iot-device-sdk-embedded-C.git"]
+	insteadOf = https://github.com/espressif/aws-iot-device-sdk-embedded-C
+[url "https://jihulab.com/esp-mirror/espressif/connectedhomeip"]
+	insteadOf = https://github.com/espressif/connectedhomeip
+[url "https://jihulab.com/esp-mirror/espressif/connectedhomeip.git"]
+	insteadOf = https://github.com/espressif/connectedhomeip
+[url "https://jihulab.com/esp-mirror/espressif/esp-adf"]
+	insteadOf = https://github.com/espressif/esp-adf
+[url "https://jihulab.com/esp-mirror/espressif/esp-adf.git"]
+	insteadOf = https://github.com/espressif/esp-adf
+[url "https://jihulab.com/esp-mirror/espressif/esp-adf-libs"]
+	insteadOf = https://github.com/espressif/esp-adf-libs
+[url "https://jihulab.com/esp-mirror/espressif/esp-adf-libs.git"]
+	insteadOf = https://github.com/espressif/esp-adf-libs
+[url "https://jihulab.com/esp-mirror/espressif/esp-at"]
+	insteadOf = https://github.com/espressif/esp-at
+[url "https://jihulab.com/esp-mirror/espressif/esp-at.git"]
+	insteadOf = https://github.com/espressif/esp-at
+[url "https://jihulab.com/esp-mirror/espressif/esp-ble-mesh-lib"]
+	insteadOf = https://github.com/espressif/esp-ble-mesh-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-ble-mesh-lib.git"]
+	insteadOf = https://github.com/espressif/esp-ble-mesh-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-bootloader-plus"]
+	insteadOf = https://github.com/espressif/esp-bootloader-plus
+[url "https://jihulab.com/esp-mirror/espressif/esp-bootloader-plus.git"]
+	insteadOf = https://github.com/espressif/esp-bootloader-plus
+[url "https://jihulab.com/esp-mirror/espressif/esp-box"]
+	insteadOf = https://github.com/espressif/esp-box
+[url "https://jihulab.com/esp-mirror/espressif/esp-box.git"]
+	insteadOf = https://github.com/espressif/esp-box
+[url "https://jihulab.com/esp-mirror/espressif/esp-coex-lib"]
+	insteadOf = https://github.com/espressif/esp-coex-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-coex-lib.git"]
+	insteadOf = https://github.com/espressif/esp-coex-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-cryptoauthlib"]
+	insteadOf = https://github.com/espressif/esp-cryptoauthlib
+[url "https://jihulab.com/esp-mirror/espressif/esp-cryptoauthlib.git"]
+	insteadOf = https://github.com/espressif/esp-cryptoauthlib
+[url "https://jihulab.com/esp-mirror/espressif/esp-dev-kits"]
+	insteadOf = https://github.com/espressif/esp-dev-kits
+[url "https://jihulab.com/esp-mirror/espressif/esp-dev-kits.git"]
+	insteadOf = https://github.com/espressif/esp-dev-kits
+[url "https://jihulab.com/esp-mirror/espressif/esp-dl"]
+	insteadOf = https://github.com/espressif/esp-dl
+[url "https://jihulab.com/esp-mirror/espressif/esp-dl.git"]
+	insteadOf = https://github.com/espressif/esp-dl
+[url "https://jihulab.com/esp-mirror/espressif/esp-hosted"]
+	insteadOf = https://github.com/espressif/esp-hosted
+[url "https://jihulab.com/esp-mirror/espressif/esp-hosted.git"]
+	insteadOf = https://github.com/espressif/esp-hosted
+[url "https://jihulab.com/esp-mirror/espressif/esp-idf"]
+	insteadOf = https://github.com/espressif/esp-idf
+[url "https://jihulab.com/esp-mirror/espressif/esp-idf.git"]
+	insteadOf = https://github.com/espressif/esp-idf
+[url "https://jihulab.com/esp-mirror/espressif/esp-idf-provisioning-ios"]
+	insteadOf = https://github.com/espressif/esp-idf-provisioning-ios
+[url "https://jihulab.com/esp-mirror/espressif/esp-idf-provisioning-ios.git"]
+	insteadOf = https://github.com/espressif/esp-idf-provisioning-ios
+[url "https://jihulab.com/esp-mirror/espressif/esp-ieee802154-lib"]
+	insteadOf = https://github.com/espressif/esp-ieee802154-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-ieee802154-lib.git"]
+	insteadOf = https://github.com/espressif/esp-ieee802154-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-insights"]
+	insteadOf = https://github.com/espressif/esp-insights
+[url "https://jihulab.com/esp-mirror/espressif/esp-insights.git"]
+	insteadOf = https://github.com/espressif/esp-insights
+[url "https://jihulab.com/esp-mirror/espressif/esp-iot-bridge"]
+	insteadOf = https://github.com/espressif/esp-iot-bridge
+[url "https://jihulab.com/esp-mirror/espressif/esp-iot-bridge.git"]
+	insteadOf = https://github.com/espressif/esp-iot-bridge
+[url "https://jihulab.com/esp-mirror/espressif/esp-iot-solution"]
+	insteadOf = https://github.com/espressif/esp-iot-solution
+[url "https://jihulab.com/esp-mirror/espressif/esp-iot-solution.git"]
+	insteadOf = https://github.com/espressif/esp-iot-solution
+[url "https://jihulab.com/esp-mirror/espressif/esp-lwip"]
+	insteadOf = https://github.com/espressif/esp-lwip
+[url "https://jihulab.com/esp-mirror/espressif/esp-lwip.git"]
+	insteadOf = https://github.com/espressif/esp-lwip
+[url "https://jihulab.com/esp-mirror/espressif/esp-matter"]
+	insteadOf = https://github.com/espressif/esp-matter
+[url "https://jihulab.com/esp-mirror/espressif/esp-matter.git"]
+	insteadOf = https://github.com/espressif/esp-matter
+[url "https://jihulab.com/esp-mirror/espressif/esp-mesh-lite"]
+	insteadOf = https://github.com/espressif/esp-mesh-lite
+[url "https://jihulab.com/esp-mirror/espressif/esp-mesh-lite.git"]
+	insteadOf = https://github.com/espressif/esp-mesh-lite
+[url "https://jihulab.com/esp-mirror/espressif/esp-mqtt"]
+	insteadOf = https://github.com/espressif/esp-mqtt
+[url "https://jihulab.com/esp-mirror/espressif/esp-mqtt.git"]
+	insteadOf = https://github.com/espressif/esp-mqtt
+[url "https://jihulab.com/esp-mirror/espressif/esp-nimble"]
+	insteadOf = https://github.com/espressif/esp-nimble
+[url "https://jihulab.com/esp-mirror/espressif/esp-nimble.git"]
+	insteadOf = https://github.com/espressif/esp-nimble
+[url "https://jihulab.com/esp-mirror/espressif/esp-phy-lib"]
+	insteadOf = https://github.com/espressif/esp-phy-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-phy-lib.git"]
+	insteadOf = https://github.com/espressif/esp-phy-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-rainmaker"]
+	insteadOf = https://github.com/espressif/esp-rainmaker
+[url "https://jihulab.com/esp-mirror/espressif/esp-rainmaker.git"]
+	insteadOf = https://github.com/espressif/esp-rainmaker
+[url "https://jihulab.com/esp-mirror/espressif/esp-rainmaker-cli"]
+	insteadOf = https://github.com/espressif/esp-rainmaker-cli
+[url "https://jihulab.com/esp-mirror/espressif/esp-rainmaker-cli.git"]
+	insteadOf = https://github.com/espressif/esp-rainmaker-cli
+[url "https://jihulab.com/esp-mirror/espressif/esp-rainmaker-common"]
+	insteadOf = https://github.com/espressif/esp-rainmaker-common
+[url "https://jihulab.com/esp-mirror/espressif/esp-rainmaker-common.git"]
+	insteadOf = https://github.com/espressif/esp-rainmaker-common
+[url "https://jihulab.com/esp-mirror/espressif/esp-rainmaker-ios"]
+	insteadOf = https://github.com/espressif/esp-rainmaker-ios
+[url "https://jihulab.com/esp-mirror/espressif/esp-rainmaker-ios.git"]
+	insteadOf = https://github.com/espressif/esp-rainmaker-ios
+[url "https://jihulab.com/esp-mirror/espressif/esp-serial-flasher"]
+	insteadOf = https://github.com/espressif/esp-serial-flasher
+[url "https://jihulab.com/esp-mirror/espressif/esp-serial-flasher.git"]
+	insteadOf = https://github.com/espressif/esp-serial-flasher
+[url "https://jihulab.com/esp-mirror/espressif/esp-sr"]
+	insteadOf = https://github.com/espressif/esp-sr
+[url "https://jihulab.com/esp-mirror/espressif/esp-sr.git"]
+	insteadOf = https://github.com/espressif/esp-sr
+[url "https://jihulab.com/esp-mirror/espressif/esp-thread-lib"]
+	insteadOf = https://github.com/espressif/esp-thread-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-thread-lib.git"]
+	insteadOf = https://github.com/espressif/esp-thread-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp-who"]
+	insteadOf = https://github.com/espressif/esp-who
+[url "https://jihulab.com/esp-mirror/espressif/esp-who.git"]
+	insteadOf = https://github.com/espressif/esp-who
+[url "https://jihulab.com/esp-mirror/espressif/esp32-bt-lib"]
+	insteadOf = https://github.com/espressif/esp32-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32-bt-lib.git"]
+	insteadOf = https://github.com/espressif/esp32-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32-camera"]
+	insteadOf = https://github.com/espressif/esp32-camera
+[url "https://jihulab.com/esp-mirror/espressif/esp32-camera.git"]
+	insteadOf = https://github.com/espressif/esp32-camera
+[url "https://jihulab.com/esp-mirror/espressif/esp32-wifi-lib"]
+	insteadOf = https://github.com/espressif/esp32-wifi-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32-wifi-lib.git"]
+	insteadOf = https://github.com/espressif/esp32-wifi-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32c2-bt-lib"]
+	insteadOf = https://github.com/espressif/esp32c2-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32c2-bt-lib.git"]
+	insteadOf = https://github.com/espressif/esp32c2-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32c3-bt-lib"]
+	insteadOf = https://github.com/espressif/esp32c3-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32c3-bt-lib.git"]
+	insteadOf = https://github.com/espressif/esp32c3-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32c5-bt-lib"]
+	insteadOf = https://github.com/espressif/esp32c5-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32c5-bt-lib.git"]
+	insteadOf = https://github.com/espressif/esp32c5-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32c6-bt-lib"]
+	insteadOf = https://github.com/espressif/esp32c6-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32c6-bt-lib.git"]
+	insteadOf = https://github.com/espressif/esp32c6-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32h2-bt-lib"]
+	insteadOf = https://github.com/espressif/esp32h2-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esp32h2-bt-lib.git"]
+	insteadOf = https://github.com/espressif/esp32h2-bt-lib
+[url "https://jihulab.com/esp-mirror/espressif/esptool"]
+	insteadOf = https://github.com/espressif/esptool
+[url "https://jihulab.com/esp-mirror/espressif/esptool.git"]
+	insteadOf = https://github.com/espressif/esptool
+[url "https://jihulab.com/esp-mirror/espressif/json_generator"]
+	insteadOf = https://github.com/espressif/json_generator
+[url "https://jihulab.com/esp-mirror/espressif/json_generator.git"]
+	insteadOf = https://github.com/espressif/json_generator
+[url "https://jihulab.com/esp-mirror/espressif/json_parser"]
+	insteadOf = https://github.com/espressif/json_parser
+[url "https://jihulab.com/esp-mirror/espressif/json_parser.git"]
+	insteadOf = https://github.com/espressif/json_parser
+[url "https://jihulab.com/esp-mirror/espressif/mbedtls"]
+	insteadOf = https://github.com/espressif/mbedtls
+[url "https://jihulab.com/esp-mirror/espressif/mbedtls.git"]
+	insteadOf = https://github.com/espressif/mbedtls
+[url "https://jihulab.com/esp-mirror/espressif/openthread"]
+	insteadOf = https://github.com/espressif/openthread
+[url "https://jihulab.com/esp-mirror/espressif/openthread.git"]
+	insteadOf = https://github.com/espressif/openthread
+[url "https://jihulab.com/esp-mirror/espressif/tinyusb"]
+	insteadOf = https://github.com/espressif/tinyusb
+[url "https://jihulab.com/esp-mirror/espressif/tinyusb.git"]
+	insteadOf = https://github.com/espressif/tinyusb
+[url "https://jihulab.com/esp-mirror/espressif/tlsf"]
+	insteadOf = https://github.com/espressif/tlsf
+[url "https://jihulab.com/esp-mirror/espressif/tlsf.git"]
+	insteadOf = https://github.com/espressif/tlsf
+[url "https://jihulab.com/esp-mirror/FreeRTOS/FreeRTOS-Kernel"]
+	insteadOf = https://github.com/FreeRTOS/FreeRTOS-Kernel
+[url "https://jihulab.com/esp-mirror/FreeRTOS/FreeRTOS-Kernel.git"]
+	insteadOf = https://github.com/FreeRTOS/FreeRTOS-Kernel
+[url "https://jihulab.com/esp-mirror/google/boringssl"]
+	insteadOf = https://github.com/google/boringssl
+[url "https://jihulab.com/esp-mirror/google/boringssl.git"]
+	insteadOf = https://github.com/google/boringssl
+[url "https://jihulab.com/esp-mirror/google/pigweed"]
+	insteadOf = https://github.com/google/pigweed
+[url "https://jihulab.com/esp-mirror/google/pigweed.git"]
+	insteadOf = https://github.com/google/pigweed
+[url "https://jihulab.com/esp-mirror/h2o/neverbleed"]
+	insteadOf = https://github.com/h2o/neverbleed
+[url "https://jihulab.com/esp-mirror/h2o/neverbleed.git"]
+	insteadOf = https://github.com/h2o/neverbleed
+[url "https://jihulab.com/esp-mirror/hathach/nxp_driver"]
+	insteadOf = https://github.com/hathach/nxp_driver
+[url "https://jihulab.com/esp-mirror/hathach/nxp_driver.git"]
+	insteadOf = https://github.com/hathach/nxp_driver
+[url "https://jihulab.com/esp-mirror/hathach/tinyusb"]
+	insteadOf = https://github.com/hathach/tinyusb
+[url "https://jihulab.com/esp-mirror/hathach/tinyusb.git"]
+	insteadOf = https://github.com/hathach/tinyusb
+[url "https://jihulab.com/esp-mirror/Infineon/abstraction-rtos"]
+	insteadOf = https://github.com/Infineon/abstraction-rtos
+[url "https://jihulab.com/esp-mirror/Infineon/abstraction-rtos.git"]
+	insteadOf = https://github.com/Infineon/abstraction-rtos
+[url "https://jihulab.com/esp-mirror/Infineon/anycloud-ota"]
+	insteadOf = https://github.com/Infineon/anycloud-ota
+[url "https://jihulab.com/esp-mirror/Infineon/anycloud-ota.git"]
+	insteadOf = https://github.com/Infineon/anycloud-ota
+[url "https://jihulab.com/esp-mirror/Infineon/bluetooth-freertos"]
+	insteadOf = https://github.com/Infineon/bluetooth-freertos
+[url "https://jihulab.com/esp-mirror/Infineon/bluetooth-freertos.git"]
+	insteadOf = https://github.com/Infineon/bluetooth-freertos
+[url "https://jihulab.com/esp-mirror/Infineon/btsdk-include"]
+	insteadOf = https://github.com/Infineon/btsdk-include
+[url "https://jihulab.com/esp-mirror/Infineon/btsdk-include.git"]
+	insteadOf = https://github.com/Infineon/btsdk-include
+[url "https://jihulab.com/esp-mirror/Infineon/btsdk-tools"]
+	insteadOf = https://github.com/Infineon/btsdk-tools
+[url "https://jihulab.com/esp-mirror/Infineon/btsdk-tools.git"]
+	insteadOf = https://github.com/Infineon/btsdk-tools
+[url "https://jihulab.com/esp-mirror/Infineon/btstack"]
+	insteadOf = https://github.com/Infineon/btstack
+[url "https://jihulab.com/esp-mirror/Infineon/btstack.git"]
+	insteadOf = https://github.com/Infineon/btstack
+[url "https://jihulab.com/esp-mirror/Infineon/clib-support"]
+	insteadOf = https://github.com/Infineon/clib-support
+[url "https://jihulab.com/esp-mirror/Infineon/clib-support.git"]
+	insteadOf = https://github.com/Infineon/clib-support
+[url "https://jihulab.com/esp-mirror/Infineon/connectivity-utilities"]
+	insteadOf = https://github.com/Infineon/connectivity-utilities
+[url "https://jihulab.com/esp-mirror/Infineon/connectivity-utilities.git"]
+	insteadOf = https://github.com/Infineon/connectivity-utilities
+[url "https://jihulab.com/esp-mirror/Infineon/core-lib"]
+	insteadOf = https://github.com/Infineon/core-lib
+[url "https://jihulab.com/esp-mirror/Infineon/core-lib.git"]
+	insteadOf = https://github.com/Infineon/core-lib
+[url "https://jihulab.com/esp-mirror/Infineon/core-make"]
+	insteadOf = https://github.com/Infineon/core-make
+[url "https://jihulab.com/esp-mirror/Infineon/core-make.git"]
+	insteadOf = https://github.com/Infineon/core-make
+[url "https://jihulab.com/esp-mirror/Infineon/freertos"]
+	insteadOf = https://github.com/Infineon/freertos
+[url "https://jihulab.com/esp-mirror/Infineon/freertos.git"]
+	insteadOf = https://github.com/Infineon/freertos
+[url "https://jihulab.com/esp-mirror/Infineon/kv-store"]
+	insteadOf = https://github.com/Infineon/kv-store
+[url "https://jihulab.com/esp-mirror/Infineon/kv-store.git"]
+	insteadOf = https://github.com/Infineon/kv-store
+[url "https://jihulab.com/esp-mirror/Infineon/mtb-hal-cat1"]
+	insteadOf = https://github.com/Infineon/mtb-hal-cat1
+[url "https://jihulab.com/esp-mirror/Infineon/mtb-hal-cat1.git"]
+	insteadOf = https://github.com/Infineon/mtb-hal-cat1
+[url "https://jihulab.com/esp-mirror/Infineon/mtb-pdl-cat1"]
+	insteadOf = https://github.com/Infineon/mtb-pdl-cat1
+[url "https://jihulab.com/esp-mirror/Infineon/mtb-pdl-cat1.git"]
+	insteadOf = https://github.com/Infineon/mtb-pdl-cat1
+[url "https://jihulab.com/esp-mirror/Infineon/ot-ifx-release"]
+	insteadOf = https://github.com/Infineon/ot-ifx-release
+[url "https://jihulab.com/esp-mirror/Infineon/ot-ifx-release.git"]
+	insteadOf = https://github.com/Infineon/ot-ifx-release
+[url "https://jihulab.com/esp-mirror/Infineon/OT-Matter-30739A0"]
+	insteadOf = https://github.com/Infineon/OT-Matter-30739A0
+[url "https://jihulab.com/esp-mirror/Infineon/OT-Matter-30739A0.git"]
+	insteadOf = https://github.com/Infineon/OT-Matter-30739A0
+[url "https://jihulab.com/esp-mirror/Infineon/OT-Matter-TARGET_CYW930739M2EVB-01"]
+	insteadOf = https://github.com/Infineon/OT-Matter-TARGET_CYW930739M2EVB-01
+[url "https://jihulab.com/esp-mirror/Infineon/OT-Matter-TARGET_CYW930739M2EVB-01.git"]
+	insteadOf = https://github.com/Infineon/OT-Matter-TARGET_CYW930739M2EVB-01
+[url "https://jihulab.com/esp-mirror/Infineon/psoc6cm0p"]
+	insteadOf = https://github.com/Infineon/psoc6cm0p
+[url "https://jihulab.com/esp-mirror/Infineon/psoc6cm0p.git"]
+	insteadOf = https://github.com/Infineon/psoc6cm0p
+[url "https://jihulab.com/esp-mirror/Infineon/recipe-make-cat1a"]
+	insteadOf = https://github.com/Infineon/recipe-make-cat1a
+[url "https://jihulab.com/esp-mirror/Infineon/recipe-make-cat1a.git"]
+	insteadOf = https://github.com/Infineon/recipe-make-cat1a
+[url "https://jihulab.com/esp-mirror/Infineon/retarget-io"]
+	insteadOf = https://github.com/Infineon/retarget-io
+[url "https://jihulab.com/esp-mirror/Infineon/retarget-io.git"]
+	insteadOf = https://github.com/Infineon/retarget-io
+[url "https://jihulab.com/esp-mirror/Infineon/secure-sockets"]
+	insteadOf = https://github.com/Infineon/secure-sockets
+[url "https://jihulab.com/esp-mirror/Infineon/secure-sockets.git"]
+	insteadOf = https://github.com/Infineon/secure-sockets
+[url "https://jihulab.com/esp-mirror/Infineon/serial-flash"]
+	insteadOf = https://github.com/Infineon/serial-flash
+[url "https://jihulab.com/esp-mirror/Infineon/serial-flash.git"]
+	insteadOf = https://github.com/Infineon/serial-flash
+[url "https://jihulab.com/esp-mirror/Infineon/TARGET_CY8CKIT-062S2-43012"]
+	insteadOf = https://github.com/Infineon/TARGET_CY8CKIT-062S2-43012
+[url "https://jihulab.com/esp-mirror/Infineon/TARGET_CY8CKIT-062S2-43012.git"]
+	insteadOf = https://github.com/Infineon/TARGET_CY8CKIT-062S2-43012
+[url "https://jihulab.com/esp-mirror/Infineon/whd-bsp-integration"]
+	insteadOf = https://github.com/Infineon/whd-bsp-integration
+[url "https://jihulab.com/esp-mirror/Infineon/whd-bsp-integration.git"]
+	insteadOf = https://github.com/Infineon/whd-bsp-integration
+[url "https://jihulab.com/esp-mirror/Infineon/wifi-connection-manager"]
+	insteadOf = https://github.com/Infineon/wifi-connection-manager
+[url "https://jihulab.com/esp-mirror/Infineon/wifi-connection-manager.git"]
+	insteadOf = https://github.com/Infineon/wifi-connection-manager
+[url "https://jihulab.com/esp-mirror/Infineon/wifi-host-driver"]
+	insteadOf = https://github.com/Infineon/wifi-host-driver
+[url "https://jihulab.com/esp-mirror/Infineon/wifi-host-driver.git"]
+	insteadOf = https://github.com/Infineon/wifi-host-driver
+[url "https://jihulab.com/esp-mirror/Infineon/wifi-mw-core"]
+	insteadOf = https://github.com/Infineon/wifi-mw-core
+[url "https://jihulab.com/esp-mirror/Infineon/wifi-mw-core.git"]
+	insteadOf = https://github.com/Infineon/wifi-mw-core
+[url "https://jihulab.com/esp-mirror/intel/tinycbor"]
+	insteadOf = https://github.com/intel/tinycbor
+[url "https://jihulab.com/esp-mirror/intel/tinycbor.git"]
+	insteadOf = https://github.com/intel/tinycbor
+[url "https://jihulab.com/esp-mirror/jedisct1/libhydrogen"]
+	insteadOf = https://github.com/jedisct1/libhydrogen
+[url "https://jihulab.com/esp-mirror/jedisct1/libhydrogen.git"]
+	insteadOf = https://github.com/jedisct1/libhydrogen
+[url "https://jihulab.com/esp-mirror/jedisct1/libsodium"]
+	insteadOf = https://github.com/jedisct1/libsodium
+[url "https://jihulab.com/esp-mirror/jedisct1/libsodium.git"]
+	insteadOf = https://github.com/jedisct1/libsodium
+[url "https://jihulab.com/esp-mirror/jeremyjh/ESP32_TFT_library"]
+	insteadOf = https://github.com/jeremyjh/ESP32_TFT_library
+[url "https://jihulab.com/esp-mirror/jeremyjh/ESP32_TFT_library.git"]
+	insteadOf = https://github.com/jeremyjh/ESP32_TFT_library
+[url "https://jihulab.com/esp-mirror/kmackay/micro-ecc"]
+	insteadOf = https://github.com/kmackay/micro-ecc
+[url "https://jihulab.com/esp-mirror/kmackay/micro-ecc.git"]
+	insteadOf = https://github.com/kmackay/micro-ecc
+[url "https://jihulab.com/esp-mirror/leethomason/tinyxml2"]
+	insteadOf = https://github.com/leethomason/tinyxml2
+[url "https://jihulab.com/esp-mirror/leethomason/tinyxml2.git"]
+	insteadOf = https://github.com/leethomason/tinyxml2
+[url "https://jihulab.com/esp-mirror/libexpat/libexpat"]
+	insteadOf = https://github.com/libexpat/libexpat
+[url "https://jihulab.com/esp-mirror/libexpat/libexpat.git"]
+	insteadOf = https://github.com/libexpat/libexpat
+[url "https://jihulab.com/esp-mirror/lvgl/lvgl"]
+	insteadOf = https://github.com/lvgl/lvgl
+[url "https://jihulab.com/esp-mirror/lvgl/lvgl.git"]
+	insteadOf = https://github.com/lvgl/lvgl
+[url "https://jihulab.com/esp-mirror/lwip-tcpip/lwip"]
+	insteadOf = https://github.com/lwip-tcpip/lwip
+[url "https://jihulab.com/esp-mirror/lwip-tcpip/lwip.git"]
+	insteadOf = https://github.com/lwip-tcpip/lwip
+[url "https://jihulab.com/esp-mirror/micropython/axtls"]
+	insteadOf = https://github.com/micropython/axtls
+[url "https://jihulab.com/esp-mirror/micropython/axtls.git"]
+	insteadOf = https://github.com/micropython/axtls
+[url "https://jihulab.com/esp-mirror/micropython/micropython"]
+	insteadOf = https://github.com/micropython/micropython
+[url "https://jihulab.com/esp-mirror/micropython/micropython.git"]
+	insteadOf = https://github.com/micropython/micropython
+[url "https://jihulab.com/esp-mirror/micropython/micropython-lib"]
+	insteadOf = https://github.com/micropython/micropython-lib
+[url "https://jihulab.com/esp-mirror/micropython/micropython-lib.git"]
+	insteadOf = https://github.com/micropython/micropython-lib
+[url "https://jihulab.com/esp-mirror/micropython/mynewt-nimble"]
+	insteadOf = https://github.com/micropython/mynewt-nimble
+[url "https://jihulab.com/esp-mirror/micropython/mynewt-nimble.git"]
+	insteadOf = https://github.com/micropython/mynewt-nimble
+[url "https://jihulab.com/esp-mirror/micropython/stm32lib"]
+	insteadOf = https://github.com/micropython/stm32lib
+[url "https://jihulab.com/esp-mirror/micropython/stm32lib.git"]
+	insteadOf = https://github.com/micropython/stm32lib
+[url "https://jihulab.com/esp-mirror/matter-mtk/genio-matter-lwip"]
+	insteadOf = https://github.com/matter-mtk/genio-matter-lwip
+[url "https://jihulab.com/esp-mirror/matter-mtk/genio-matter-lwip.git"]
+	insteadOf = https://github.com/matter-mtk/genio-matter-lwip
+[url "https://jihulab.com/esp-mirror/matter-mtk/genio-matter-mdnsresponder"]
+	insteadOf = https://github.com/matter-mtk/genio-matter-mdnsresponder
+[url "https://jihulab.com/esp-mirror/matter-mtk/genio-matter-mdnsresponder.git"]
+	insteadOf = https://github.com/matter-mtk/genio-matter-mdnsresponder
+[url "https://jihulab.com/esp-mirror/mruby/mruby"]
+	insteadOf = https://github.com/mruby/mruby
+[url "https://jihulab.com/esp-mirror/mruby/mruby.git"]
+	insteadOf = https://github.com/mruby/mruby
+[url "https://jihulab.com/esp-mirror/nayuki/QR-Code-generator"]
+	insteadOf = https://github.com/nayuki/QR-Code-generator
+[url "https://jihulab.com/esp-mirror/nayuki/QR-Code-generator.git"]
+	insteadOf = https://github.com/nayuki/QR-Code-generator
+[url "https://jihulab.com/esp-mirror/nanopb/nanopb"]
+	insteadOf = https://github.com/nanopb/nanopb
+[url "https://jihulab.com/esp-mirror/nanopb/nanopb.git"]
+	insteadOf = https://github.com/nanopb/nanopb
+[url "https://jihulab.com/esp-mirror/nestlabs/nlassert"]
+	insteadOf = https://github.com/nestlabs/nlassert
+[url "https://jihulab.com/esp-mirror/nestlabs/nlassert.git"]
+	insteadOf = https://github.com/nestlabs/nlassert
+[url "https://jihulab.com/esp-mirror/nestlabs/nlfaultinjection"]
+	insteadOf = https://github.com/nestlabs/nlfaultinjection
+[url "https://jihulab.com/esp-mirror/nestlabs/nlfaultinjection.git"]
+	insteadOf = https://github.com/nestlabs/nlfaultinjection
+[url "https://jihulab.com/esp-mirror/nestlabs/nlio"]
+	insteadOf = https://github.com/nestlabs/nlio
+[url "https://jihulab.com/esp-mirror/nestlabs/nlio.git"]
+	insteadOf = https://github.com/nestlabs/nlio
+[url "https://jihulab.com/esp-mirror/nestlabs/nlunit-test"]
+	insteadOf = https://github.com/nestlabs/nlunit-test
+[url "https://jihulab.com/esp-mirror/nestlabs/nlunit-test.git"]
+	insteadOf = https://github.com/nestlabs/nlunit-test
+[url "https://jihulab.com/esp-mirror/nghttp2/nghttp2"]
+	insteadOf = https://github.com/nghttp2/nghttp2
+[url "https://jihulab.com/esp-mirror/nghttp2/nghttp2.git"]
+	insteadOf = https://github.com/nghttp2/nghttp2
+[url "https://jihulab.com/esp-mirror/nodejs/http-parser"]
+	insteadOf = https://github.com/nodejs/http-parser
+[url "https://jihulab.com/esp-mirror/nodejs/http-parser.git"]
+	insteadOf = https://github.com/nodejs/http-parser
+[url "https://jihulab.com/esp-mirror/obgm/libcoap"]
+	insteadOf = https://github.com/obgm/libcoap
+[url "https://jihulab.com/esp-mirror/obgm/libcoap.git"]
+	insteadOf = https://github.com/obgm/libcoap
+[url "https://jihulab.com/esp-mirror/ocornut/imgui"]
+	insteadOf = https://github.com/ocornut/imgui
+[url "https://jihulab.com/esp-mirror/ocornut/imgui.git"]
+	insteadOf = https://github.com/ocornut/imgui
+[url "https://jihulab.com/esp-mirror/open-source-parsers/jsoncpp"]
+	insteadOf = https://github.com/open-source-parsers/jsoncpp
+[url "https://jihulab.com/esp-mirror/open-source-parsers/jsoncpp.git"]
+	insteadOf = https://github.com/open-source-parsers/jsoncpp
+[url "https://jihulab.com/esp-mirror/openthread/ot-br-posix"]
+	insteadOf = https://github.com/openthread/ot-br-posix
+[url "https://jihulab.com/esp-mirror/openthread/ot-br-posix.git"]
+	insteadOf = https://github.com/openthread/ot-br-posix
+[url "https://jihulab.com/esp-mirror/openthread/ot-nxp"]
+	insteadOf = https://github.com/openthread/ot-nxp
+[url "https://jihulab.com/esp-mirror/openthread/ot-nxp.git"]
+	insteadOf = https://github.com/openthread/ot-nxp
+[url "https://jihulab.com/esp-mirror/openthread/ot-qorvo"]
+	insteadOf = https://github.com/openthread/ot-qorvo
+[url "https://jihulab.com/esp-mirror/openthread/ot-qorvo.git"]
+	insteadOf = https://github.com/openthread/ot-qorvo
+[url "https://jihulab.com/esp-mirror/openthread/openthread"]
+	insteadOf = https://github.com/openthread/openthread
+[url "https://jihulab.com/esp-mirror/openthread/openthread.git"]
+	insteadOf = https://github.com/openthread/openthread
+[url "https://jihulab.com/esp-mirror/openweave/cirque"]
+	insteadOf = https://github.com/openweave/cirque
+[url "https://jihulab.com/esp-mirror/openweave/cirque.git"]
+	insteadOf = https://github.com/openweave/cirque
+[url "https://jihulab.com/esp-mirror/pellepl/spiffs"]
+	insteadOf = https://github.com/pellepl/spiffs
+[url "https://jihulab.com/esp-mirror/pellepl/spiffs.git"]
+	insteadOf = https://github.com/pellepl/spiffs
+[url "https://jihulab.com/esp-mirror/pfalcon/berkeley-db-1.xx"]
+	insteadOf = https://github.com/pfalcon/berkeley-db-1.xx
+[url "https://jihulab.com/esp-mirror/pfalcon/berkeley-db-1.xx.git"]
+	insteadOf = https://github.com/pfalcon/berkeley-db-1.xx
+[url "https://jihulab.com/esp-mirror/project-chip/zap"]
+	insteadOf = https://github.com/project-chip/zap
+[url "https://jihulab.com/esp-mirror/project-chip/zap.git"]
+	insteadOf = https://github.com/project-chip/zap
+[url "https://jihulab.com/esp-mirror/protobuf-c/protobuf-c"]
+	insteadOf = https://github.com/protobuf-c/protobuf-c
+[url "https://jihulab.com/esp-mirror/protobuf-c/protobuf-c.git"]
+	insteadOf = https://github.com/protobuf-c/protobuf-c
+[url "https://jihulab.com/esp-mirror/pybind/pybind11"]
+	insteadOf = https://github.com/pybind/pybind11
+[url "https://jihulab.com/esp-mirror/pybind/pybind11.git"]
+	insteadOf = https://github.com/pybind/pybind11
+[url "https://jihulab.com/esp-mirror/Qorvo/qpg-openthread"]
+	insteadOf = https://github.com/Qorvo/qpg-openthread
+[url "https://jihulab.com/esp-mirror/Qorvo/qpg-openthread.git"]
+	insteadOf = https://github.com/Qorvo/qpg-openthread
+[url "https://jihulab.com/esp-mirror/Qorvo/QMatter"]
+	insteadOf = https://github.com/Qorvo/QMatter
+[url "https://jihulab.com/esp-mirror/Qorvo/QMatter.git"]
+	insteadOf = https://github.com/Qorvo/QMatter
+[url "https://jihulab.com/esp-mirror/raspberrypi/pico-sdk"]
+	insteadOf = https://github.com/raspberrypi/pico-sdk
+[url "https://jihulab.com/esp-mirror/raspberrypi/pico-sdk.git"]
+	insteadOf = https://github.com/raspberrypi/pico-sdk
+[url "https://jihulab.com/esp-mirror/tatsuhiro-t/neverbleed"]
+	insteadOf = https://github.com/tatsuhiro-t/neverbleed
+[url "https://jihulab.com/esp-mirror/tatsuhiro-t/neverbleed.git"]
+	insteadOf = https://github.com/tatsuhiro-t/neverbleed
+[url "https://jihulab.com/esp-mirror/ThrowTheSwitch/CMock"]
+	insteadOf = https://github.com/ThrowTheSwitch/CMock
+[url "https://jihulab.com/esp-mirror/ThrowTheSwitch/CMock.git"]
+	insteadOf = https://github.com/ThrowTheSwitch/CMock
+[url "https://jihulab.com/esp-mirror/throwtheswitch/cexception"]
+	insteadOf = https://github.com/throwtheswitch/cexception
+[url "https://jihulab.com/esp-mirror/throwtheswitch/cexception.git"]
+	insteadOf = https://github.com/throwtheswitch/cexception
+[url "https://jihulab.com/esp-mirror/throwtheswitch/unity"]
+	insteadOf = https://github.com/throwtheswitch/unity
+[url "https://jihulab.com/esp-mirror/throwtheswitch/unity.git"]
+	insteadOf = https://github.com/throwtheswitch/unity
+[url "https://jihulab.com/esp-mirror/ThrowTheSwitch/Unity"]
+	insteadOf = https://github.com/ThrowTheSwitch/Unity
+[url "https://jihulab.com/esp-mirror/ThrowTheSwitch/Unity.git"]
+	insteadOf = https://github.com/ThrowTheSwitch/Unity
+[url "https://jihulab.com/esp-mirror/troglobit/editline"]
+	insteadOf = https://github.com/troglobit/editline
+[url "https://jihulab.com/esp-mirror/troglobit/editline.git"]
+	insteadOf = https://github.com/troglobit/editline
+[url "https://jihulab.com/esp-mirror/warmcat/libwebsockets"]
+	insteadOf = https://github.com/warmcat/libwebsockets
+[url "https://jihulab.com/esp-mirror/warmcat/libwebsockets.git"]
+	insteadOf = https://github.com/warmcat/libwebsockets
+[url "https://jihulab.com/esp-mirror/zserge/jsmn"]
+	insteadOf = https://github.com/zserge/jsmn
+[url "https://jihulab.com/esp-mirror/zserge/jsmn.git"]
+	insteadOf = https://github.com/zserge/jsmn
